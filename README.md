@@ -3,19 +3,19 @@
 This project is a fork of the [HTML5 Boilerplate](http://html5boilerplate.com).  
 It has been simplified for those starting out with web development and programming.
 
-An [**example site**](http://pfnp.adrianbautista.com) built with this template.
+An [**example site**](http://page.uberzito.com) built with this template.
 
 ## Quick start
 
 ### How to download this template:
 
 1. **Easy Way** - Download the `.zip` file
-   * You can use the "Download ZIP" button in the right sidebar or click [this link](https://github.com/adrianbautista/html-css-template/archive/pfnp.zip).
+   * You can use the "Download ZIP" button in the right sidebar
    * Unzip the template by double clicking on the downloaded `html-css-template-pfnp.zip` file.
 2. **Programmer Way** - Clone the Git Repo
    * If you have git on your computer and a github account, you can clone this project from the command line
      ```
-     git clone https://github.com/adrianbautista/html-css-template.git
+     git clone https://github.com/tecnomnb/page.git
      ```
 
 ### How to use this template:
